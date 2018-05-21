@@ -44,4 +44,4 @@ The script is just a draft of what can be done with the twitter API within the l
 
 ## Authors
 Valérian de THEZAN de GAUSSAN  
-Université Claude Bernanrd Lyon 1
+Université Claude Bernard Lyon 1
