@@ -1,4 +1,4 @@
-# Bitcointalk scrapper
+# Twitter bitcoin scrapper
 
 ## What is this ?
 This script produces a JSON file in the ``data/`` folder.  
